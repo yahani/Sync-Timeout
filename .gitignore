@@ -1,0 +1,5 @@
+sync.db
+api_data.json
+__pycache__/
+*.zip
+test_results_*.txt

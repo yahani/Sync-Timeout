@@ -1,0 +1,7 @@
+# Reproduction scenario — run these one at a time from this folder.
+
+python3 demo.py reset
+python3 demo.py seed --members 1000 --teams 5
+python3 demo.py sync --budget 60
+python3 demo.py show
+python3 demo.py stats
